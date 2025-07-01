@@ -97,7 +97,6 @@
       display.innerText = "00:00:00";
     }
   </script>
-
 </body>
 </html>
     
